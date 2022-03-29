@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"interface.h": "c",
+			"studentint.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
