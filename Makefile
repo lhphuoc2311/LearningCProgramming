@@ -20,6 +20,7 @@ OUTPUT	:= output
 # define source directory
 SRC		:= src src/calculation
 
+SRC		:= src src/employee
 
 #SRC     := src/calculation
 
